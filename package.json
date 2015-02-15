@@ -1,0 +1,22 @@
+{
+  "name": "duo-hypertext",
+  "version": "1.0.0",
+  "description": "duo plugin to transform html to hypertext",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "River Grimm <river.grimm@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "co-fs": "^1.2.0",
+    "co-mocha": "^1.1.0",
+    "duo": "^0.9.1",
+    "mocha": "^2.1.0",
+    "virtual-dom": "^1.3.0",
+    "vm": "0.0.1"
+  },
+  "dependencies": {
+    "html2hscript": "^1.0.2"
+  }
+}
